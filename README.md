@@ -3,7 +3,7 @@
 I'm a full-stack developer and tech lead currently working for an Australian fintech.
 
 - 🔭  I’m currently working with Node, React and AWS to support the development of a pretty cool international financial platform.
-- 🌱  I’m currently learning Python3 and Django/Django Rest Framework, contributing to projects like [Querido Diario](https://github.com/okfn-brasil/querido-diario/)
+- 🌱  I’m currently learning Python3 and Django/Django Rest Framework, contributing to projects like [Querido Diario](https://github.com/okfn-brasil/querido-diario)
 - 💬  Ask me about agile development, kanban, RESTful APIs, Ecmascript, TDD, clean code, functional programming
 - 📫  How to reach me: my twitter handle is @rodbv
 - 😄  Pronouns: He/Him
